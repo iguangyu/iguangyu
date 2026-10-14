@@ -1,2 +1,1 @@
-
-# LightIsle 光屿
+lightisle.cn
